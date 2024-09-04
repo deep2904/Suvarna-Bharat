@@ -9,7 +9,7 @@ include "header.php";
         <div class="container">
 
             <div class="section-title">
-                <h2>Our Team</h2>
+                <h2 style="color:black">Our Team</h2>
             </div>
 
             <div class="rows">

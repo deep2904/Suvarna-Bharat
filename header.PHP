@@ -14,7 +14,7 @@
 
     <style>
         * {
-            background-color: beige;
+            background-color: linen;
             color:black;
         }
 
@@ -294,7 +294,7 @@ section {
         <button class="w3-bar-item w3-button w3-green w3-mobile">Go</button>
 
         <!-- <a href="#" class="w3-bar-item w3-button w3-border-right"><i class="fa fa-search w3-blue"></i></a> -->
-        <a href="#" class="w3-bar-item w3-button w3-border-right"><i class="fa fa-sign-in w3-blue"></i></a>
+        <a href="login.php" class="w3-bar-item w3-button w3-border-right"><i class="fa fa-sign-in w3-blue"></i></a>
     </div>
 
 
